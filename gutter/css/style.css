@@ -1,0 +1,13 @@
+.row{
+    margin-bottom: 20px;
+    height: 200px;
+    background-color: rgb(133, 60, 33);
+}
+
+.row div div{
+    background-color: rgb(247, 206, 156);
+    border: 2px solid black;
+    color: azure;
+    padding: 20px;
+    text-align: center;
+}
